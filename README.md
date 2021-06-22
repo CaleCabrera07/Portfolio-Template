@@ -1,6 +1,6 @@
 # Portfolio
 
-[Portfolio template](cc-portfolio-template.netlify.app) .
+[Portfolio template](https://cc-portfolio-template.netlify.app/) .
 
 ### Features
 
